@@ -2,9 +2,6 @@
 Code to implement the game of Spot it!
 
 http://www.blueorangegames.com/spotit/
-
-For each function, replace the return statement with your code.  Add
-whatever helper functions you deem necessary.
 """
 
 import comp140_module2 as spotit
@@ -160,6 +157,4 @@ def run():
 
     spotit.start(deck)
 
-# Uncomment the following line to run your game (once you have
-# implemented the run function.)
 run()
